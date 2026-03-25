@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm M Vishwas Kamath! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35px"></h1>
+<h1 align="center">Hi there, I'm M Vishwas Kamath!</h1>
 
 <h3 align="center">Backend Engineer | SDE II @ HashedIn by Deloitte 🚀</h3>
 
@@ -20,18 +20,33 @@ I'm a backend-heavy Software Engineer who loves tearing down legacy monoliths an
 
 ---
 
+### 🚀 Featured Projects
+
+* 🏏 **[Ballebaazi-mobile](https://github.com/vishwaskamath/ballebaazi-mobile):** A digital mobile take on the classic hand cricket game.
+* 💰 **[Kharca](https://github.com/vishwaskamath/kharca):** A sleek expense tracker built to help manage and visualize personal budgets.
+* 📈 **[Networth](https://github.com/vishwaskamath/networth):** A full-stack application designed to monitor personal net worth and asset allocation over time.
+* 🤝 **[Crowdfund](https://github.com/vishwaskamath/crowdfund):** A responsive JavaScript-based platform created to facilitate community crowdfunding campaigns.
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br><br>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <br><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
